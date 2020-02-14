@@ -20,17 +20,23 @@ I am easily adaptable and fast learning person and passionate by coding interest
 **Code examples**
 
 [Game 2048 on C](https://github.com/asselyeka/2048_game_by_asselyeka)
+----------------------------------------------------------------------------------------------
 [Last app on Go](https://github.com/asselyeka/ascii-art-color-hub)
 
 ----------------------------------------------------------------------------------------------
 **Education**
 
 ALEM 01 EDU SYSTEM CODING SCHOOL
+--------------------------------
 https://alem.school/
+--------------------------------
 *Piscine .go Goland*
-
+--------------------------------
+--------------------------------
 IT STEP COMPUTER ACADEMY
+--------------------------------
 https://itstep.org/
+-------------------------------
 *Software development*
 * IT Essentials by CISCO Networking Academy
 
