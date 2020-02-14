@@ -2,7 +2,7 @@ Assel Moldasheva
 ----------------------------------------------------------------------------------------------
 Contact Info
 
-+7 701 222 97 62 | a.moldasheva@gmail.com | linkedin.com/in/amoldasheva
+:calling: +7 701 222 97 62 | :e-mail: a.moldasheva@gmail.com | :bust_in_silhouette: linkedin.com/in/amoldasheva
 ----------------------------------------------------------------------------------------------
 I have no experience as Junior Developer. Currently I am student of Alem Coding School. 
 I am easily adaptable and fast learning person and passionate by coding interesting projects.
